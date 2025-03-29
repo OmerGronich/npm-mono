@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@npm-mono/utils": ["./packages/utils/src"],
+    }
+  }
+}
