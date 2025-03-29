@@ -1,5 +1,5 @@
 import {Component, computed, signal} from '@angular/core';
-import {isEven} from '@npm-mono/utils';
+import {isEven} from '@npm-mono/utils/src';
 import {FormsModule} from '@angular/forms';
 
 @Component({

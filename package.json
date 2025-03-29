@@ -11,5 +11,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "nx": "^20.6.4"
+  }
 }
